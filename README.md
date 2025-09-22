@@ -52,6 +52,7 @@ In this report, two point-wise methods—the Gauss-Seidel and the Jacobi methods
 
 
 <img width="1081" height="781" alt="image" src="https://github.com/user-attachments/assets/8b62a0a7-a052-4f57-8018-f1e075d78552" />
-<img width="1144" height="765" alt="image" src="https://github.com/user-attachments/assets/ef43212b-d0e8-4e86-849c-0366de31c86c" />
+<img width="1144" height="765" alt="image" src="https://github.com/user-attachments/assets/b39ba578-8afd-4072-b494-a0da099d826d" />
+
 
 
