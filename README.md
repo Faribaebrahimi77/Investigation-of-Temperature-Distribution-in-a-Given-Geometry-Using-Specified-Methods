@@ -1,26 +1,36 @@
 # CFD-Analysis-of-Industrial-Melting-Furnace-with-Heat-Transfer-and-Flow-Dynamics
 Comprehensive CFD simulation of heat transfer and fluid flow in an industrial melting furnace investigating temperature distribution, flow patterns, and thermal performance optimization.
-🔥 Thermal Analysis Objectives
+
+# Thermal Analysis Objectives
 Heat Transfer Investigation
 
 Conduction Analysis: Solid material heat transfer through furnace walls
+
 Convection Effects: Natural/forced convection in furnace interior
+
 Radiation Heat Transfer: High-temperature radiative exchange
+
 Mixed Heat Transfer: Combined conduction-convection-radiation modes
 
-Flow Dynamics Study
+# Flow Dynamics Study
 
 Buoyancy-Driven Flow: Natural convection due to temperature gradients
+
 Recirculation Patterns: Flow circulation zones identification
+
 Velocity Field Analysis: Flow velocity magnitude and direction
+
 Heat Transfer Enhancement: Flow effects on thermal performance
 
-🔬 MATLAB Simulation Methodology
+# MATLAB Simulation Methodology
 Numerical Methods Implementation
 
 Heat Equation Solver: 2D steady-state heat conduction using finite difference method
+
 Matrix Solution: MATLAB's built-in sparse matrix solvers (mldivide, pcg)
+
 Grid Generation: meshgrid() and linspace() functions for domain discretization
+
 Boundary Conditions: Implemented using MATLAB indexing and matrix manipulation
 
 
